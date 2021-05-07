@@ -1,0 +1,53 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+  flex-wrap: wrap;
+}
+.header {
+display: flex;
+justify-content: space-between;
+background-color: rgb(255, 233, 35);
+border: solid;
+font-size: 150%;
+text-align:center
+
+}
+H1{
+  color:rgb(21, 37, 189) ; 
+  margin-left:20px ; 
+}
+.header a{
+    margin-top: 50px;
+    margin-right: 36px;
+}
+body{
+   
+    background-image:url('https://www.freecodecamp.org/news/content/images/size/w2000/2020/04/w-qjCHPZbeXCQ-unsplash.jpg') ;
+opacity : 0.8;
+
+}
+
+
+a about us{
+  color: palevioletred;
+}
+
+
+origami:hover {
+  text-decoration-line: underline;
+  text-decoration-style: dotted;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
